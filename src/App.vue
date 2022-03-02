@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App 2 with CI"/>
+  <HelloWorld msg="Welcome to Your Vue.js App 3 with CI"/>
 </template>
 
 <script>
